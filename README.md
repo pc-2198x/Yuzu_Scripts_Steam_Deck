@@ -7,7 +7,7 @@ The filenames are normalized so you can add them to Steam without breaking the l
 ## Instructions:
 
 1. Download the scripts and/or clone this GitHub Repository to your Steam Deck.
-2. Run either script will create a folder called `image` within the working directory, and will create either `Linux-Yuzu-EA.AppImage` or `Linux-Yuzu-EA.AppImage` within that directroy depending on which script you executed.
+2. Running either script will create a folder called `image` within the working directory, and will create either `Linux-Yuzu-EA.AppImage` or `Linux-Yuzu-EA.AppImage` within that directroy depending on which script you executed.
 3. A Symlink `Linux-Yuzu.AppImage` will also be created in working directory, which will link to the last AppImage downloaded.
 
 ### Why do both AppImages ***AND*** a Symlink?
