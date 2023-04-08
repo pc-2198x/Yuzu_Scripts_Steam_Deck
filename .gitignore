@@ -1,2 +1,5 @@
 # Ignore the Symlink
 Linux-Yuzu.AppImage
+
+# Ignore Image folder
+image/
